@@ -1,4 +1,4 @@
-# Zact Share - V1.2
+# Zact Share
 
 Partage de fichiers simple et rapide sur votre réseau local.
 
